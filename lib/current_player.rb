@@ -4,9 +4,8 @@ def turn_count(board)
     if posit == ("X" || "O")
       count += 1
     end
-     count
   end
-  
+     count
  end
 
 
